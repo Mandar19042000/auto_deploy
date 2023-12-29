@@ -56,3 +56,4 @@
     show_silhouette: false
     totals_color: '#808080'
     ordering: none
+    show_null_labels: false
