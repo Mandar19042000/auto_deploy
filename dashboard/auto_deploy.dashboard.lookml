@@ -9,7 +9,7 @@
     name: Auto_Deploy
     model: auto_deploy
     explore: retail_orders
-    type: looker_pie
+    type: looker_column
     fields: [retail_orders.category, retail_orders.average_profit]
     sorts: [retail_orders.average_profit desc 0]
     limit: 500
